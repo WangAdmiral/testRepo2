@@ -18,7 +18,7 @@
 
     <!--开启注解支持-->
     <!--注解支持可以不开-->
-    <context:annotation-config/>
+    <!--<context:annotation-config/>-->
 
     <!--加载配置文件-->
     <context:property-placeholder location="classpath:jdbc.properties"/>
