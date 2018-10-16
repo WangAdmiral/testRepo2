@@ -20,6 +20,7 @@ public class ItemsController {
         for (Items items : itemsService.findAll()) {
             System.out.println(items);
         }
+        System.out.println("git测试");
         return "success";
     }
 }

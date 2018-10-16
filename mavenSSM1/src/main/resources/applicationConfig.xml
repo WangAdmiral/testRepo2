@@ -17,6 +17,7 @@
     <context:component-scan base-package="cn.itcast.service"/>
 
     <!--开启注解支持-->
+    <!--注解支持可以不开-->
     <context:annotation-config/>
 
     <!--加载配置文件-->
