@@ -21,6 +21,7 @@ public class ItemsController {
             System.out.println(items);
         }
         System.out.println("git测试");
+        System.out.println("git测试4");
         return "success";
     }
 }

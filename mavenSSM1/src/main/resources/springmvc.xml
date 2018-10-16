@@ -28,5 +28,6 @@
     <mvc:resources location="/js/" mapping="/js/**" />
 
     <!--开启注解支持-->
+    <!--包含处理器映射器，处理器适配器，处理器-->
     <mvc:annotation-driven/>
 </beans>
